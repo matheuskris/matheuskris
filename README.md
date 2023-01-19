@@ -2,8 +2,6 @@
 
 Desenvolvedor aprendendo atualmente tecnologias voltadas para o desenvolvimento web front-end!
 
-![MatheusKris GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuskris&show_icons=true&theme=dracula&count_private=true)
-
 ## 🌱 Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block">
