@@ -1,6 +1,6 @@
 ### 👋 Oi, Meu nome é Matheus Krisciumas!
 
-Desenvolvedor aprendendo atualmente tecnologias voltadas para o desenvolvimento web front-end!
+Desenvolvedor com experiência em desenvolvimento de interfaces de usuário com React e React-native e API's com Spring-Boot 
 
 ## 🌱 Tecnologias que eu uso no meu dia a dia:
 
