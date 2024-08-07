@@ -1,6 +1,6 @@
 ### 👋 Oi, Meu nome é Matheus Krisciumas!
 
-Desenvolvedor com experiência em desenvolvimento de interfaces de usuário com React e React-native e API's com Spring-Boot 
+Desenvolvedor com experiência em desenvolvimento de interfaces de usuário com React e React-native e API's em Node e JAVA
 
 ## 🌱 Tecnologias que eu uso no meu dia a dia:
 
