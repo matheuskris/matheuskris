@@ -11,10 +11,6 @@ Desenvolvedor com experiência em desenvolvimento de interfaces de usuário com 
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-### Veja Meu útimo projeto
-- [HelpDesk - NextJS](https://helpdesk-gilt.vercel.app/)<br/>
-
 ### 📫 Entre em Contato!!
-[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheuskris.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuskris/)
 
