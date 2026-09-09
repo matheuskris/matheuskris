@@ -1,6 +1,6 @@
-### 👋 Oi, Meu nome é Matheus Krisciumas!
+### 👋 Matheus Krisciumas!
 
-Desenvolvedor com experiência em desenvolvimento de interfaces de usuário com React e React-native e API's em Node e JAVA
+I'm a Senior Software Engineer in Brazil 🇧🇷, passionate about solving problems with technology and creating different solutions.
 
 ## 🌱 Tecnologias que eu uso no meu dia a dia:
 
